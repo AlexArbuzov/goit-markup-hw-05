@@ -522,8 +522,8 @@ body {
 
 /* Portfolio pictures */
 
-.portfolio-link :hover .overlay,
-.portfolio-link :focus .overlay {
+.portfolio-link:hover .overlay,
+.portfolio-link:focus .overlay {
   transform: translateY(0%);
 }
 
